@@ -76,6 +76,13 @@ Open index.html file in any browser to see the results.
 
 Below are sample report snapshots
 
+# Add a movie from API
+
+![Add a movie API Test Passed](https://user-images.githubusercontent.com/9302926/168625890-2d80deb9-0973-4d15-b574-81514d4abed1.jpg)
+
+# Add a movie from Web App
+
+![Add a movie Web Test Passed](https://user-images.githubusercontent.com/9302926/168626151-f8395c7e-adfa-455c-a290-a42f052af675.jpg)
 
 I have used serenity framework here.
 
