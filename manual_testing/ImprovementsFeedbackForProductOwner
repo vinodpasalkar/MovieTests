@@ -1,0 +1,9 @@
+Improvements to be considered
+
+1. Filter text box is not present for Time value
+2. While creating and updating the movie , there should be a dropdown for selecting the rating value with the required range
+for e.g. 1 to 5
+3. While creating and updating the movie , there should be a dropdown for selecting the time value with the required range
+   for e.g. Hour value -  1 to 3 , Minutes value - 00 to 59
+4. When clicked on "Simple Application" , it should show home page
+5. Delete and Update columns should not have sorting feature

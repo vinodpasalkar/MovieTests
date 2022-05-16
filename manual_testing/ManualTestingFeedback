@@ -1,0 +1,5 @@
+Found below bugs
+
+1. The spelling for "Update" button is not correct, its written as "Upadate"
+2. Column titles and respective values on the movie list page should be aligned
+3. On Update movie screen the title is shown as "Create Movie", it should be "Update Movie"
